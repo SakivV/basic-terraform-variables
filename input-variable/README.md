@@ -4,7 +4,7 @@
    ```
    variable "myname"{
       type = string
-      default = "vikas
+      default = "vikas"
    }
    ```
    
